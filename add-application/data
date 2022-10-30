@@ -1,1 +1,3 @@
 myProperty: myString
+myNumber: 3
+myString: "Some String"

@@ -1,3 +1,2 @@
-myProperty: myString
-myNumber: 3
-myString: "Some String"
+configNumber: 3
+configString: "Some String"

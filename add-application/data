@@ -1,2 +1,3 @@
 configNumber: 3
 configString: "Some String"
+numberFactsApi: http://numbersapi.com
